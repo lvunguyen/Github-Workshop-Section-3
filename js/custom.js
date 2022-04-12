@@ -198,7 +198,7 @@ jQuery(document).ready(function(){
 
 
 	/* ---------------------------------------------------------------------- */
-	/*	Contact Form
+	/*	Dave's Contact Form code (requires php installed on server)
 	/* ---------------------------------------------------------------------- */
 	
 	// Needed variables
